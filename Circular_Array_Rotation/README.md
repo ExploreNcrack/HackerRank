@@ -11,11 +11,11 @@ For each query, print the value of the element at index **m** of the rotated arr
 
 ### Sample Input
 3 2 3
-1 2 3
-0
-1
-2
+<br />1 2 3
+<br />0
+<br />1
+<br />2
 ### Sample Ouput
 2
-3
-1
+<br />3
+<br />1
