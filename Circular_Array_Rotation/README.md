@@ -9,7 +9,13 @@ The first line contains **3** space-separated integers, **n**, **k**, and **q**,
 ## Output Format
 For each query, print the value of the element at index **m** of the rotated array on a new line.
 
-## Example
 ### Sample Input
-
+3 2 3
+1 2 3
+0
+1
+2
 ### Sample Ouput
+2
+3
+1
